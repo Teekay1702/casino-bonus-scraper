@@ -33,7 +33,7 @@ pip install -r scraper/requirements.txt
 cp .env.example .env      # then put your key in .env
 ```
 
-`.env` holds `ANTHROPIC_API_KEY=...`. It is git-ignored and never read by the website.
+`.env` holds `OPENAI_API_KEY=...`. It is git-ignored and never read by the website.
 
 ## Source notes
 
