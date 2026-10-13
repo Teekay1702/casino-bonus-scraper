@@ -1,0 +1,29 @@
+[
+  {
+    "casino_name": "Bitkingz Casino",
+    "bonus_offer": "Exclusive First Deposit Bonus: 200% up to €200 + 200 Free Spins BK200",
+    "max_bonus": "€200",
+    "wagering_requirement": null,
+    "source_url": "https://www.casinomeister.com/online-casinos/reviews/bitkingz-casino/",
+    "original_terms": "Offer: Exclusive First Deposit Bonus: 200% up to €200 + 200 Free Spins BK200 | Terms: 18+ | Restrictions Apply | T&Cs Apply | Please Gamble Responsibly. GambleAware.org",
+    "scraped_at": "2026-10-13T13:31:53+00:00"
+  },
+  {
+    "casino_name": "Lussurio Casino",
+    "bonus_offer": "200% first deposit bonus + 100 free spins",
+    "max_bonus": "$1,000",
+    "wagering_requirement": null,
+    "source_url": "https://www.casinomeister.com/online-casinos/reviews/lussurio/",
+    "original_terms": "Offer: Lussurio First Deposit Bonus: 200% up to $1,000 + 100 Free Spins | Terms: 18+ | Restrictions Apply | T&Cs Apply | Please Gamble Responsibly. GambleAware.org",
+    "scraped_at": "2026-10-13T13:31:55+00:00"
+  },
+  {
+    "casino_name": "Bitstarz Casino",
+    "bonus_offer": "100% first deposit bonus + 180 Free Spins",
+    "max_bonus": "€100 or 1 BTC",
+    "wagering_requirement": null,
+    "source_url": "https://www.casinomeister.com/online-casinos/reviews/bitstarz/",
+    "original_terms": "Offer: Bitstarz First Deposit Bonus: 100% up to €100 or 1 BTC + 180 Free Spins | Terms: 18+ | Restrictions Apply | T&Cs Apply | Please Gamble Responsibly. GambleAware.org",
+    "scraped_at": "2026-10-13T13:31:57+00:00"
+  }
+]
