@@ -26,8 +26,6 @@ USER_AGENT = "casino-bonus-assessment-bot/1.0 (educational; respects robots.txt)
 REQUEST_TIMEOUT = 20
 EXPECTED_RECORDS = 3
 
-MODEL = os.environ.get("OPENAI_MODEL") or "gpt-4.1-mini"
-
 MODEL = os.environ.get("OPENAI_MODEL")
 
 # ---------------------------------------------------------------------------
@@ -155,7 +153,6 @@ def parse_listing(html: str, base_url: str) -> list[dict]:
 
 
 import openai
-from openai import OpenAI
 
 EXTRACT_TOOL = {
     "type": "function",
